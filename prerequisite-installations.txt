@@ -57,7 +57,7 @@ pip install jplephem
 pip install Cython
 pip install corner
 pip install nestle
-pip install dynasty
+pip install dynesty
 apt-get install libtool (use sudo if required)
 apt-get install autoconf (use sudo if required)
 apt install libsuitesparse-dev
